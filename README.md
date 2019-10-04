@@ -1,14 +1,7 @@
-# Gatsby Tailwind Serif
+# A new personal portfolio
 
-A Gatsby theme based on [Gatsby Serif Theme](https://github.com/JugglerX/gatsby-serif-theme ), rewrite with [Tailwind CSS](https://tailwindcss.com/).
-
-![image-20190708222928070](./screenshots/home.png)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af949119-1d89-4ee4-8116-5519c19d4122/deploy-status)](https://app.netlify.com/sites/phoenix-web/deploys)
 
 ## Demo
 
-See the [Link](https://gatsby-tailwind-serif.netlify.com)
-
-
-## License
-[MIT](LICENSE)
+Check out the development preview at: [https://phoenix-web.netlify.com/](https://phoenix-web.netlify.com/)
