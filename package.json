@@ -1,33 +1,28 @@
 {
-  "name": "@windedge/gatsby-tailwind-serif",
-  "description": "Gatsby starter styled with Tailwind",
-  "version": "1.0",
-  "author": "@windedge",
+  "name": "phoenix-web",
+  "description": "My personal website",
+  "version": "1.0.0",
+  "author": "@sorousht",
   "dependencies": {
     "classnames": "^2.2.6",
-    "gatsby": "2.9.11",
+    "gatsby": "2.15.29",
     "gatsby-image": "^2.2.3",
-    "gatsby-plugin-manifest": "2.2.0",
-    "gatsby-plugin-offline": "^2.2.0",
+    "gatsby-plugin-manifest": "2.2.20",
+    "gatsby-plugin-offline": "3.0.11",
     "gatsby-plugin-postcss": "^2.0.7",
     "gatsby-plugin-purgecss": "^4.0.0",
-    "gatsby-plugin-react-helmet": "3.1.0",
+    "gatsby-plugin-react-helmet": "3.1.10",
     "gatsby-plugin-sharp": "^2.2.1",
     "gatsby-source-filesystem": "^2.1.1",
     "gatsby-transformer-remark": "^2.5.0",
     "gatsby-transformer-sharp": "^2.2.0",
-    "graphql": "14.3.1",
+    "graphql": "14.5.8",
     "prop-types": "15.7.2",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
     "react-helmet": "5.2.1"
   },
-  "keywords": [
-    "gatsby",
-    "tailwind",
-    "tailwindcss",
-    "purgecss"
-  ],
+  "keywords": [],
   "license": "MIT",
   "scripts": {
     "analyze:lint": "eslint --ext .jsx --ext .js .",
@@ -44,23 +39,23 @@
   },
   "devDependencies": {
     "babel-eslint": "10.0.2",
-    "eslint": "5.16.0",
-    "eslint-config-react-app": "4.0.1",
-    "eslint-plugin-flowtype": "3.11.1",
-    "eslint-plugin-import": "2.18.0",
-    "eslint-plugin-jsx-a11y": "6.2.1",
-    "eslint-plugin-react": "7.14.2",
-    "eslint-plugin-react-hooks": "1.6.1",
+    "eslint": "6.5.1",
+    "eslint-config-react-app": "5.0.2",
+    "eslint-plugin-flowtype": "4.3.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.16.0",
+    "eslint-plugin-react-hooks": "2.1.2",
     "prettier": "1.18.2",
-    "tailwindcss": "1.1.1",
+    "tailwindcss": "1.1.2",
     "tailwindcss-transforms": "^2.1.0"
   },
   "Repository": {
     "type": "git",
-    "url": "https://github.com/windedge/gatsby-tailwind-serif"
+    "url": "https://github.com/sorousht/phoenix-web.git"
   },
   "bugs": {
-    "url": "https://github.com/windedge/gatsby-tailwind-serif/issues"
+    "url": "https://github.com/sorousht/phoenix-web/issues"
   },
   "publishConfig": {
     "access": "public"
