@@ -1,8 +1,10 @@
 import React from "react";
+import '../css/style.css';
 
-const Layout = () => {
+const Layout = ({ children }) => {
   return (
     <div>
+      {children}
     </div>
   );
 };
