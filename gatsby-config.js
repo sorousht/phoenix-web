@@ -23,6 +23,17 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-plugin-postcss',
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: [
+            'Playfair Display',
+            'Source Sans Pro',
+          ]
+        }
+      }
+    },
+    {
       resolve: "gatsby-plugin-purgecss",
       options: {
         tailwind: true,
